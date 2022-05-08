@@ -9,7 +9,7 @@ to install all dependencies you can use **our install script**
 ```sh
 git clone https://github.com/KaiduY/ReMake
 cd ReMake
-chmod -x install.sh
+chmod u+x install.sh
 ./install.sh
 ```
 
