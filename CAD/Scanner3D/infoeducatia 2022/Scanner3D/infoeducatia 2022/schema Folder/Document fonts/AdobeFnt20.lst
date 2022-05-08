@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.20
+%Locale:0x418
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Black
+FamilyName:Roboto
+StyleName:Black
+FullName:Roboto Black
+MenuName:Roboto Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\salvari\aplicatii-proiecte\infoeducatia 2022\schema Folder\Document fonts\Roboto-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168060
+FileModTime:1357682400
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Black
+NameArray:0,Win,16,Roboto
+%EndFont
+
