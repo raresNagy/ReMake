@@ -71,7 +71,7 @@ class Nema:
     def getAng(self):
          return self.steps / 2 * 1.8  / self.ust
         
-
+"""
 m1 = Nema(3,2)
 m2 = Nema(5,4)
 
@@ -85,4 +85,5 @@ m1.go(-100,1)
     #m2.step()
     #print(m1.getSteps())
     #sleep(0.0001)
+"""
         
